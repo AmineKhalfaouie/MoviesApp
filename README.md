@@ -18,8 +18,6 @@ Moodflix is a movie discovery platform designed to help beginners learn React.js
 - Modern UI/UX design
 - Full responsiveness
 
-Join our Discord community if you need help or want to contribute!
-
 ## ⚙️ Tech Stack
 - **Frontend**: React.js
 - **Backend**: Appwrite
@@ -44,7 +42,7 @@ Join our Discord community if you need help or want to contribute!
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/moodflix.git
+git clone https://github.com/AmineKhalfaouie/moodflix.git
 cd moodflix
 
 # Install dependencies
