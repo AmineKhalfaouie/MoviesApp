@@ -1,12 +1,5 @@
 # Moodflix - Movie Discovery App 🎬
 
-![Moodflix Banner](https://via.placeholder.com/1200x400?text=Moodflix+Movie+App) <!-- Replace with actual banner image -->
-
-A modern movie discovery application built with React.js, Appwrite, and Tailwind CSS. Follow our tutorial on JavaScript Mastery YouTube to build this step by step!
-
-[![JavaScript Mastery](https://img.shields.io/badge/Subscribe-JavaScript%20Mastery-red?style=flat-square&logo=youtube)](https://youtube.com/javascriptmastery)
-[![Discord](https://img.shields.io/discord/769198185614901289?label=Discord&logo=discord&style=flat-square)](https://discord.gg/javascriptmastery)
-
 ## 📋 Table of Contents
 - [Introduction](#-introduction)
 - [Tech Stack](#-tech-stack)
